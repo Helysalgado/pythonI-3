@@ -3,7 +3,7 @@ NAME
 	reverse-complement.py
     
 VERSION
-    1.0.hi
+    1.0.hallo
     
 AUTHOR
 	
