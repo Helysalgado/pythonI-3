@@ -7,7 +7,7 @@ VERSION
     
 AUTHOR
 	
-    yo
+    Cami
 DESCRIPTION
 	Make the reverse complement of DNA sequence
     
