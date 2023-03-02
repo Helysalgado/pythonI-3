@@ -6,7 +6,7 @@ VERSION
     1.0
     
 AUTHOR
-	Camila Villazon
+	Camila Villazon, Shirley
 	
     
 DESCRIPTION
