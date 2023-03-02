@@ -6,7 +6,10 @@ La finalidad es aprender sus aplicaciones y su uso correcto.
 
 ## Autor
 Camila Villazon Soto Innes
-Estudiante de licenciatura en la UNAM.
+Estudiante de la licenciatura en Ciencias Genómicas de la UNAM.
 
 ## Licencias
 Tiene licencia MIT
+
+## Motivación
+...
