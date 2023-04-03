@@ -14,7 +14,8 @@ DESCRIPTION
 # =                            main
 # ===========================================================================
 
-print("==================================================== \n\n Este programa indica la posicion del codón de inicio, \n asi como la secuencia entre el codon de inicio y el de paro\n")
+print("==================================================== \n\n Este programa indica la posicion del codón de inicio,"+
+      "\n asi como la secuencia entre el codon de inicio y el de paro\n")
 
 
 # secuencia de DNA
